@@ -1,0 +1,2 @@
+// display hte number of docs in school
+db.school.countDocuments();
